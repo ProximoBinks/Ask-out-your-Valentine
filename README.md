@@ -66,6 +66,16 @@ Want to make it your own? Here are some easy tweaks inside `index.html`:
 
 Contributions are welcome! Whether it's new GIF suggestions, design tweaks, or code improvements -- fork the repo and open a pull request.
 
+## Star History
+
+<a href="https://www.star-history.com/?type=date&amp;repos=ProximoBinks%2FAsk-out-your-Valentine">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ProximoBinks/Ask-out-your-Valentine&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ProximoBinks/Ask-out-your-Valentine&amp;type=date&amp;legend=top-left" />
+    <img alt="Star History Chart for Ask-out-your-Valentine" src="https://api.star-history.com/chart?repos=ProximoBinks/Ask-out-your-Valentine&amp;type=date&amp;legend=top-left" />
+  </picture>
+</a>
+
 ## License
 
 Open source under the [MIT License](LICENSE).
